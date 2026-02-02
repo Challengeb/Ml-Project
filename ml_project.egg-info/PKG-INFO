@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: ml_project
+Version: 0.1.0
+Author: Challenge Bhongwani
+Author-email: challengebhongwani@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: flask
+Requires-Dist: joblib
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
